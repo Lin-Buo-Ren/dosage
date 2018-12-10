@@ -75,7 +75,7 @@ at least Python 3.3. Dosage requires the following Python modules:
 - requests
 - six
 
-For certain modules you need th `cssselect` module, for bash argument
+For certain modules you need the `cssselect` module, for bash argument
 completion you need the `argcomplete` module.
 
 ## Installation
